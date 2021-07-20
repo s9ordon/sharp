@@ -1,6 +1,6 @@
 #copy of 
 
-function Invoke-BloodHound{
+function Invoke-Sharp{
     <#
     .SYNOPSIS
 
